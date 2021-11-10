@@ -348,5 +348,10 @@ zoo = {
       showcase: false,
       typeId: 9, // giraffe
     },
-  ]
+  ],
+  prices: { 
+    adult: 49.99, 
+    senior: 24.99, 
+    child: 20.99 
+  },
 }
